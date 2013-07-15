@@ -6,7 +6,7 @@ $wgExtensionCredits['parserhook'][] = array(
         'description' => "Parser function that helps with handling URLs in wikitext.",    // Should be using descriptionmsg instead so that i18n is supported (but this is a simple example).
         'version' => "0.0.1", 
         'author' => "Jamie Thingelstad",
-        'url' => "http://thingelstad.com/foo",
+        'url' => "https://github.com/thingles/ParseURL",
 );
  
 # Define a setup function
